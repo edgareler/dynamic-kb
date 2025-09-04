@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-kb",
+  "version": "1.0.0",
+  "description": "Dynamic Knowledge Base System",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgareler/dynamic-kb.git"
+  },
+  "author": "Edgar Eler <eler@edgar.systems>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgareler/dynamic-kb/issues"
+  },
+  "homepage": "https://github.com/edgareler/dynamic-kb#readme"
+}
